@@ -3,6 +3,8 @@
 .vscode
 
 data_raw/
+data/
+old/
 
 #temp files and large files
 *.npy
